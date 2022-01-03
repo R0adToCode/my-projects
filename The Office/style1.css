@@ -3,7 +3,7 @@ body{
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url('image/jake.jpg')
+    background: url('/brooklyn99/image/jake.jpg')
 }
 .left{
     position: absolute;
