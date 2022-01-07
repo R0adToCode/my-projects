@@ -4,6 +4,7 @@ body{
     margin: 0px;
     padding: 0px;
     background: url('image/scott.jpg')
+    no-repeat
 }
 .left{
     position: absolute;
@@ -60,7 +61,13 @@ body{
     font-size: 16px;
     cursor: pointer;
     font-family: 'Acme', sans-serif;
+    text-decoration: none;
 }
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
 .btn:hover{
     background-color: red;
 }
