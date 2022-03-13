@@ -1,0 +1,1 @@
+this is my first project using tailwind, so i've tried to make a simple copy of facebook with a little change and the website is not responsive because i didnt start making it one by one a direct made this big version.
