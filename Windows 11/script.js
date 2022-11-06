@@ -10,3 +10,6 @@ taskbar.addEventListener("click", ()=>{
         startmenu.style.bottom = "50px"
     }
 })
+
+//alert("this is an alert");
+prompt("what is your name");
